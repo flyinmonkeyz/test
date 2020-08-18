@@ -1,3 +1,5 @@
 this is my 3rd file that i will be tracking only
 
+adding a 3rd line in the middle 
+
 editing after tracking
